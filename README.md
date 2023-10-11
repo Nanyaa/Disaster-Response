@@ -6,22 +6,22 @@ For thsi project, data engineering  applied to analyze disaster data from Figure
 ## File Descriptions
 #### app
 
-| - template
-| |- master.html # main page of web app
-| |- go.html # classification result page of web app
-|- run.py # Flask file that runs app
+- template
+- master.html # main page of web app
+- go.html # classification result page of web app
+- run.py # Flask file that runs app
 
 #### data
 
-|- disaster_categories.csv # data to process
-|- disaster_messages.csv # data to process
-|- process_data.py # data cleaning pipeline
-|- Disaster_Response.db # database to save clean data to
+- disaster_categories.csv # data to process
+- disaster_messages.csv # data to process
+- process_data.py # data cleaning pipeline
+- Disaster_Response.db # database to save clean data to
 
 #### models
 
-|- train_classifier.py # machine learning pipeline
-|- model.pkl # saved model
+- train_classifier.py # machine learning pipeline
+- model.pkl # saved model
 
 README.md
 
