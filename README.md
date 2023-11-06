@@ -1,7 +1,7 @@
 # Disaster Response Project
 
 ## Project Motivation
-For thsi project, data engineering  applied to analyze disaster data from Figure Eight to build a model for an API that classifies disaster messages. I have created a machine learning pipeline to categorize real messages that were sent during disaster events so that the messages could be sent to an appropriate disaster relief agency. The project includes a web app where an emergency worker can input a new message and get classification results in several categories. The web app will also display visualizations of the data.
+For this project, data engineering  is applied to analyze disaster data from Figure Eight to build a model for an API that classifies disaster messages. I created a machine learning pipeline to categorize real messages that were sent during disaster events so that the messages could be sent to an appropriate disaster relief agency. The project includes a web app where an emergency worker can input a new message and get classification results in several categories. The web app will also display visualizations of the data.
 
 ## File Descriptions
 #### app
